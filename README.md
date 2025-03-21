@@ -11,13 +11,13 @@ Trabalho como designer e sou sócio de uma empresa de marketing. Meu objetivo co
 
 Atualmente, estou aprendendo **Python**. Há alguns anos, tinha uma boa interação com **HTML** e **Flash**, mas preciso relembrar muita coisa. Além disso, utilizo **Photoshop** e **Lightroom** para design gráfico e edição de imagens.
 
-<p align="left">
-    <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
-    <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img alt="Adobe Photoshop" title="Adobe Photoshop" width="40px" src="https://images.squarespace-cdn.com/content/v1/63e9521d57beb42d27041606/5080c7de-9643-43d9-8c10-13e5f4e99351/photoshop-beta.png"/> 
-    <img alt="Adobe Lightroom" title="Adobe Lightroom" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"/> 
-    <img alt="Adobe Flash" title="Adobe Flash" width="40px" src="https://purepng.com/public/uploads/large/purepng.com-adobe-flash-logo-iconadobeflashadobe-flashaiillustratoradobe-iconicontiffadobe-logologologo-icon-231519333627xrhfx.png"/> 
-</p>
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="html" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<img align="center" alt="html" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
+<img align="center" alt="html" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/>
 
 ---
 
